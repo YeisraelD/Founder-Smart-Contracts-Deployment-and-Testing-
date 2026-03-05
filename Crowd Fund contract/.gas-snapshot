@@ -1,0 +1,4 @@
+CrowdFundTest:testClaim() (gas: 215403)
+CrowdFundTest:testCreateCampaign() (gas: 131429)
+CrowdFundTest:testPledge() (gas: 183294)
+CrowdFundTest:testRefund() (gas: 172415)
