@@ -1,4 +1,4 @@
-moving from remix IDE to founder on vs (kinda having frame work) which 
+here moving from remix IDE to founder on vs (kinda having frame work) which 
 consists of:
 
 - **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
