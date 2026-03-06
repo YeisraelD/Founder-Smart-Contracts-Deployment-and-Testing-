@@ -61,7 +61,7 @@ $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --pri
 ```shell
 $ cast <subcommand>
 ```
-# Call something
+### Call something
 cast call 0xContractAddr "balanceOf(address)(uint256)" 0xYourAddr
 ### Help
 
