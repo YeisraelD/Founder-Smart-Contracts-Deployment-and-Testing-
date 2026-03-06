@@ -10,7 +10,7 @@ consists of:
 
 https://book.getfoundry.sh/
 
-## Quick Commands (Foundry Chad Starter Pack)
+## Quick Commands (Foundry Chad Starter Pack) ha
 
 ### Build
 
