@@ -1,6 +1,16 @@
-here moving from remix IDE to founder on vs (kinda having frame work) which 
+here moving from remix IDE noob to founder on vs (kinda having frame work) which 
 consists of:
 
+### inside
+
+- **personal counter**          — classic storage banger
+- **Bank saving contract**     — yield? interest? your funeral
+- **Crowd Fund contract**      — rugpull prevention edition (maybe)
+- **Simple Vault**             — lock yo ETH, hope for the best
+- **Weekly Starts**            — time-locked pain
+- **Owner Message Board**      — centralized diary on chain (why tho)
+- 
+All wrapped in Foundry:
 - **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
 - **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
 - **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
