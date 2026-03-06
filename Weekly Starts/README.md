@@ -1,0 +1,1 @@
+- all contracts was compiled and deployed on remix ide environment
