@@ -53,6 +53,8 @@ $ anvil
 ```shell
 $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
+<img width="1403" height="745" alt="image" src="https://github.com/user-attachments/assets/f94bb85c-ec0b-402b-bd2b-b094f35cb725" />
+
 
 ### Cast
 
